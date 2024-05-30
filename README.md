@@ -1,2 +1,5 @@
-# Selenium-Webdriver project
-This repository hosts my implementation of the Selenium WebDriver course led by Angie Jones. The curriculum delves into fundamental aspects of Selenium WebDriver and its application in automated testing, along with more intricate subjects like the Page Object Model, Page Factory, and TestNG.
+# Sumerge-Automation-Task
+
+This repository includes automated test cases for form validation using Selenium and TestNG, applying the Page Object Model (POM) design pattern as part of a task in the hiring process at Sumerge.
+
+There are six test cases that cover the requirements and can be run sequentially in a test suite.
